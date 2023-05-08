@@ -1,0 +1,5 @@
+In der Vorlesung werden die klassischen Verfahren der Kryptographie eingehend erläutert. Zunächst die modernen public key Systeme und die dort zum Verständnis gehörende Zahlentheorie. Hier ist wesentlich RSA (Rivest, Shamir, Adleman, die Erfinder) die Grundlage des PGP (pretty good privacy) Verfahrens. Außerdem Schlüsselverteilung nach Diffie-Hellman. "Public key" sagt aus, daß sich die Teilnehmer NICHT vorher auf einen Schlüssel, der notwendigerweise geheim ist und die Gefahr in sich birgt, abgehört zu werden, einigen müssen.
+
+Danach werden einige der Verfahren besprochen, die auf einem geheimen Schlüssel basieren. Eventuell noch die Blockchain Technik.
+
+Die Vorlesung inklusive Übung hält sich an unten angegebene Literatur und versucht, einzelne Kapitel daraus für das Auditorium so leicht wie möglich verständlich zu machen.
